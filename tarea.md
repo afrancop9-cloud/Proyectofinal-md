@@ -75,33 +75,6 @@ Los modulos principales incluyen:
 - Notification de recordatorios  
 - Importación de datos.
 
-# Tipos de usuario:
-
-- Nombre de nombre employés
-- Numéro de salariés
-- Numéro de jours de travail
-- Numéro de heures de travail
-- Numéro de jours de pay
-- Numéro de heures de pay
-- Numéro de jours de pay
-- Numéro de heures de pay
-- Numéro de jours de pay
-- Numéro de heures de pay  
-- Nombre de tariffs
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre de rincarnos
-- Nombre d'@\#
 
 <table><tr><td>Requerimiento funcional
 ID</td><td>Requerimiento</td><td>Descripción</td></tr><tr><td>1.</td><td>Registrar de usuario</td><td>Permitir registrar con correjo y contraseñaylvania.</td></tr><tr><td>2.</td><td>Inicio de sesión</td><td>Validar credenciales y permitir acceso</td></tr><tr><td>3.</td><td>CrearILA</td><td>Crear una citing con tíolo, Fecha, hora y descripción</td></tr><tr><td>4.</td><td>Editar Citation</td><td>Modificar información de una citing existente.</td></tr><tr><td>5.</td><td>Eliminar Citation</td><td>Borrar cites con confirmación del usuario.</td></tr></table>
@@ -124,7 +97,7 @@ Casos de prueba.
 
 # Reflexión final y conclusión.
 
-Las pruebas permiten verificar que cada重要因素 se cumple de forma trazable y medible.
+Las pruebas permiten verificar que cada requerimiento se cumple de forma trazable y medible.
 
 Las pruebas unitarias validanOLLacionesspecificas,minteras que lasvalidacion confirmarman la conformidad con lasexpectativas del usuario, también tanto como laspruebas y losrequirerimientos podemos hacer una gran comparacion de losfuncionales y nofuncionales, Cambian tanto que uno tiene que ver con la velocidadque actua la aplicaciones y other que verifique los datos de entrada y salidas this nosayuda también a comprender un poco sobre lo que se hara en un futuro en algoquproyecto ya que thisiempeDebeestarvisibleenunprojecto y aplicar y clasificarcuales losfunciones y nofunciones y asihacer un caso de prueba para verificarcomo resultaría el Proyecto
 
@@ -133,3 +106,4 @@ Las pruebas unitarias validanOLLacionesspecificas,minteras que lasvalidacion con
 La trazabilidad entre requisimiento y pruebas asegura que cada funcionalidad fue verificada.
 
 Este proceso mejora la calidad, reduce erroses antes y en futuros y fortalece la comprensión practica de la ingeniera de software, fácilando también el trabajo sea individual o en equipo(,) grouped).
+
